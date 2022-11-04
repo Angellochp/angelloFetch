@@ -1,12 +1,14 @@
 [
     {    
-        "2 Horas": 400, 
-         "4 Horas": 600,
-         "6 Horas": 800,
-         "1 Parlante": 100,
-         "2 Parlantes": 150,
-         "3 Parlantes": 200,    
-         "Luces básicas": 200,
-         "Set profesional":500 
+        "opcion": "DJ"          
+    }, 
+    {    
+        "opcion": "Parlantes"          
+    },
+    {    
+        "opcion": "Luces"          
+    },
+    {    
+        "opcion": "Selecciona que deseas agregar"          
     }
 ]
